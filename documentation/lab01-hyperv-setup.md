@@ -21,11 +21,11 @@ Windows 11 Pro
 
 ## Tasks Completed
 
-- [ ] Verified virtualization
-- [ ] Enabled Hyper-V
-- [ ] Restarted PC
-- [ ] Opened Hyper-V Manager
-- [ ] Created External Virtual Switch
+- [x] Verified virtualization
+- [x] Enabled Hyper-V
+- [x] Restarted PC
+- [x] Opened Hyper-V Manager
+- [x] Created External Virtual Switch
 
 ---
 
