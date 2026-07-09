@@ -27,9 +27,9 @@ My goal is to build practical experience with Windows administration, networking
 
 | Component | Details |
 |-----------|----------|
-| CPU | |
-| RAM | |
-| Storage | |
+| CPU | AMD Ryzen 9 7950X 16-Core Processor |
+| RAM | 32.0 GB |
+| Storage | 1 TB SSD |
 | Operating System | Windows 11 |
 
 ---
