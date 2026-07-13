@@ -12,7 +12,7 @@ Learn how to create and configure a virtual machine using Hyper-V.
 
 ### Why do virtual machines need RAM?
 
-*(Virtual machines need dedicated RAM so that is can run properly while completing tasks.)*
+*(RAM provides temporary working memory for the operating system and applications.  Virtual machines need dedicated RAM so that is can run properly while completing tasks.)*
 
 ### Why do we use Generation 2?
 
