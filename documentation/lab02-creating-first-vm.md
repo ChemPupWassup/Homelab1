@@ -25,7 +25,7 @@ Learn how to create and configure a virtual machine using Hyper-V.
 ## Configuration
 
 VM Name:
-Ubuntu-24.04
+Ubuntu-26.04
 
 Generation:
 2
