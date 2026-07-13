@@ -51,17 +51,7 @@ Teacher notes:
 Instead of memorizing:
 
 External = Internet
-
 Think about who can communicate with whom.
-
-Here's a simple table:
-
-Switch Type   	Host PC	Other VMs	Internet
-Private	          ❌	    ✅	      ❌
-Internal	        ✅	    ✅	      ❌
-External	        ✅	    ✅	      ✅
-
-If you remember that communication pattern, you'll be able to answer questions even if you forget the names.
 
 Bonus question: Suppose you download a suspicious program from the Internet.  Would you run it on:
 
