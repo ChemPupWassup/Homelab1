@@ -8,7 +8,7 @@ Learn how to create and configure a virtual machine using Hyper-V.
 
 ### What is an ISO file?
 
-*(ISO is the copied version of the operating system that you chose. This can be linux, windows, or MacOS. The ISO contains everything you need for installation and can be used to mount an operating system to a VMs.)*
+*(ISO is a digital copied version of the operating system installation disk. This can be linux, windows, or MacOS. The ISO contains everything you need for installation and can be used to mount an operating system to a VMs.)*
 
 ### Why do virtual machines need RAM?
 
