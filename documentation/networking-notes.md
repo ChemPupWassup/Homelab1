@@ -72,3 +72,7 @@ ANSWER: ISO is the copied version of the operating system that you chose.  This 
 2. why do you thing the virtual machine section is empty?
 
 ANSWER:  Virtual machines need to be created first.  Hyper-V is just a manager not the actual VM.
+
+3. Why do you think Microsoft even gives us two generations?
+
+ANSWER  Generation 1 can be used for older versions of Hyper-V and simulate older 32-bit and 64-bit systems.  Generation 2 is for newst Hyper-V for 64-bit systems.
