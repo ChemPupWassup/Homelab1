@@ -76,3 +76,15 @@ ANSWER:  Virtual machines need to be created first.  Hyper-V is just a manager n
 3. Why do you think Microsoft even gives us two generations?
 
 ANSWER  Generation 1 can be used for older versions of Hyper-V and simulate older 32-bit and 64-bit systems.  Generation 2 is for newst Hyper-V for 64-bit systems.
+
+4. Why shouldn't we simply give every VM all 32 GB of RAM?
+Think beyond "because it won't work."
+What would happen to the host computer?
+
+ANSWER:  If I gave the VMs all 32 GB of RAM from the host computer there will no longer be enough RAM sto split between all systems.  I would assume the host computer will become bogged down and will not be able to complete any tasks.  I assume the same would happen to all the VMs.
+
+5. Why do we create a virtual hard disk instead of storing everything directly on your C: drive?
+
+ANSWER:  If something goes wrong and the VM is connected to your hosts drive then your host files are at risk.  We want to keep the VM completely Isolated.
+
+
