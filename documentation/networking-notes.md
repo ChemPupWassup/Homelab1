@@ -65,6 +65,10 @@ Answer: I would choose B.  I chose a virtual machine because it has a segregated
 
 LAB 02
 
-What is ISO in your own words?
+1. What is ISO in your own words?
 
 ANSWER: ISO is the copied version of the operating system that you chose.  This can be linux, windows, or MacOS.  The ISO contains everything you need for installation and can be used to mount an opperating system to a VMs.
+
+2. why do you thing the virtual machine section is empty?
+
+ANSWER:  Virtual machines need to be created first.  Hyper-V is just a manager not the actual VM.
