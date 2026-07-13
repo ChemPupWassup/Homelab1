@@ -71,4 +71,4 @@ B. A Virtual Machine
 
 Why?
 
-Answer: I would choose B.  I chose a virtual machine because it has a segregated space for the suspicios program to run and be tested without it having access to my person computer and person files.
+Answer: I would choose B.  I chose a virtual machine because it has a segregated space for the suspicious program to run and be tested without it having access to my person computer and person files.
