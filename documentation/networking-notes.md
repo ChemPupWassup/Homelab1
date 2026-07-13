@@ -62,3 +62,9 @@ B. A Virtual Machine
 Why?
 
 Answer: I would choose B.  I chose a virtual machine because it has a segregated space for the suspicious program to run and be tested without it having access to my person computer and person files.
+
+LAB 02
+
+What is ISO in your own words?
+
+ANSWER: ISO is the copied version of the operating system that you chose.  This can be linux, windows, or MacOS.  The ISO contains everything you need for installation and can be used to mount an opperating system to a VMs.
