@@ -12,4 +12,4 @@ This folder contains screenshots from Lab 02.
 
 ### Ubuntu Installer
 
-### Unbuntu desktop
+### Ubuntu desktop
