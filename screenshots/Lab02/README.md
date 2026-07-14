@@ -1,8 +1,8 @@
 </> Markdown
 
-# Lab 01 Screenshots
+# Lab 02 Screenshots
 
-This folder contains screenshots from Lab 01.
+This folder contains screenshots from Lab 02.
 
 ---
 
@@ -10,25 +10,6 @@ This folder contains screenshots from Lab 01.
 
 ### VM Configuration
 
-Shows the VM setting and configuration are properly set up.
-
-![VM configuration]()
-
----
-
 ### Ubuntu Installer
 
-Shows Unbuntu getting installed.
-
-![Unbuntu installer]()
-
----
-
 ### Unbuntu desktop
-
-Unbuntu desktop display after succsessful installation. 
-
-![Unbuntu desktop](Lab02-Unbuntu-after-installation.png)
-
----
-
