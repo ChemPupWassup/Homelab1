@@ -39,6 +39,43 @@ External Switch
 Virtual Hard Disk:
 127 GB (default)
 
+## Challenges
+
+### Problem
+
+Ubuntu would not boot from the ISO and displayed a Secure Boot error.
+
+### Troubleshooting
+
+-Verified boot order.
+-Confirmed the ISO was attached to the virtual DVD drive.
+-Reviewed Secure Boot settings.
+-Read and interpreted the error message instead of guessing.
+
+### Resolution
+
+After reviewing the VM configuration and Secure Boot settings, the installation completed successfully.
+
+### What I Learned
+
+I learned that boot order isn't the only reason a VM can fail to boot. Error messages often provide the most valuable troubleshooting information, so it's important to read and understand them before making configuration changes.
+
+**If no issues were encountered:**
+
+N/A
+
+---
+
 ## What I Learned
 
-*(Complete after the VM is created.)*
+- I learend how to properly set up my first Virtual machine in Hyper-V
+- I no understand the boot sequences of a computer
+- I know how to troubleshoot boot errors whith setting navigation.
+
+---
+
+## Screenshots
+
+- Ubuntu installer
+- Ubuntu desktop
+- Secure boot error
