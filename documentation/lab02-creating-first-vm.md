@@ -76,6 +76,7 @@ N/A
 
 ## Screenshots
 
+- VM configuration
 - Ubuntu installer
 - Ubuntu desktop
 - Secure boot error
