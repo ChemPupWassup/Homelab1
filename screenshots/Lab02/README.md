@@ -13,3 +13,5 @@ This folder contains screenshots from Lab 02.
 ### Ubuntu Installer
 
 ### Ubuntu desktop
+
+### Boot error
