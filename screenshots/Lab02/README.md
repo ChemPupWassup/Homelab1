@@ -28,7 +28,7 @@ Shows Unbuntu getting installed.
 
 Unbuntu desktop display after succsessful installation. 
 
-![Unbuntu desktop]()
+![Unbuntu desktop](Lab02-Unbuntu-after-installation.png)
 
 ---
 
