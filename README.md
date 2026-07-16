@@ -36,7 +36,7 @@ My goal is to build practical experience with Windows administration, networking
 
 # Software
 
-- VirtualBox (Coming Soon)
+- Hyper-V
 - Windows 11
 - Windows Server
 - Ubuntu Linux
@@ -45,10 +45,10 @@ My goal is to build practical experience with Windows administration, networking
 
 # Current Projects
 
-- [ ] Install VirtualBox
+- [X] Enable Hyper-V
 - [ ] Create Windows 11 VM
 - [ ] Create Windows Server VM
-- [ ] Create Ubuntu VM
+- [X] Create Ubuntu VM
 - [ ] Configure Networking
 - [ ] Learn Active Directory
 - [ ] Learn DNS
