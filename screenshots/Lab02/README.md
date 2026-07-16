@@ -1,5 +1,3 @@
-</> Markdown
-
 # Lab 02 Screenshots
 
 This folder contains screenshots from Lab 02.
